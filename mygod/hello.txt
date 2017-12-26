@@ -1,2 +1,6 @@
 hfjfj
-&
+<<<<<<< HEAD
+AND
+=======
+and
+>>>>>>> dev
